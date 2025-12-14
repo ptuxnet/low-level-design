@@ -1,4 +1,4 @@
-package BehavioralPatterns.StrategyPattern.Navigation;
+package BehavioralPatterns.StrategyPattern.Navigation.Strategy;
 
 public class FastestRoute implements RouteStrategy{
 

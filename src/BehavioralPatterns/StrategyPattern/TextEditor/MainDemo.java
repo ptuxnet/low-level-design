@@ -1,5 +1,9 @@
 package BehavioralPatterns.StrategyPattern.TextEditor;
 
+import BehavioralPatterns.StrategyPattern.TextEditor.Strategy.LowercaseFormat;
+import BehavioralPatterns.StrategyPattern.TextEditor.Strategy.TitlecaseFormat;
+import BehavioralPatterns.StrategyPattern.TextEditor.Strategy.UppercaseFormat;
+import BehavioralPatterns.StrategyPattern.TextEditor.context.TextEditor;
 
 // Client Code (Testing)
 public class MainDemo {
