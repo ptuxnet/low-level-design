@@ -1,4 +1,4 @@
-package BehavioralPatterns.StrategyPattern.TextEditor;
+package BehavioralPatterns.StrategyPattern.TextEditor.Strategy;
 
 
 // Strategy Interface

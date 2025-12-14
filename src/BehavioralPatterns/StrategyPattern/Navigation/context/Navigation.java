@@ -1,4 +1,6 @@
-package BehavioralPatterns.StrategyPattern.Navigation;
+package BehavioralPatterns.StrategyPattern.Navigation.context;
+
+import BehavioralPatterns.StrategyPattern.Navigation.Strategy.RouteStrategy;
 
 public class Navigation {
     private RouteStrategy strategy;

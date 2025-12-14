@@ -1,5 +1,6 @@
-package BehavioralPatterns.StrategyPattern.TextEditor;
+package BehavioralPatterns.StrategyPattern.TextEditor.context;
 
+import BehavioralPatterns.StrategyPattern.TextEditor.Strategy.TextFormatStrategy;
 
 // Context Class — TextEditor
 public class TextEditor {

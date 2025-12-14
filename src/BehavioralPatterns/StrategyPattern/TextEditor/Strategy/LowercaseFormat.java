@@ -1,5 +1,4 @@
-package BehavioralPatterns.StrategyPattern.TextEditor;
-
+package BehavioralPatterns.StrategyPattern.TextEditor.Strategy;
 
 // Concrete Strategy class
 public class LowercaseFormat implements TextFormatStrategy{
